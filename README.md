@@ -81,4 +81,8 @@ To succeed on this deliverable of the assignment, opened the **VacationPy.ipynb*
 
    - Zero cloudiness
 
+3. Created a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
+4. For each city, used the Geoapify API to find the first hotel located within 10,000 meters of my coordinates.
+
+5. Added the hotel name and the country as additional information in the hover message for each city on the map as in the following image
