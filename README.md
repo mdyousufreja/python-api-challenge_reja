@@ -62,4 +62,23 @@ Next, created a series of scatter plots. Also, created the following plots:
 
 After each pair of plots, explained what the linear regression is modeling. Described any relationships that I noticed and any other findings that uncovered.
 
+## Part 2: VacationPy ##
+
+
+In this deliverable, I used my weather data skills to plan future vacations. Also, I used Jupyter notebooks, the geoViews Python library, and the Geoapify API.
+
+The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to get started.
+
+My main tasks were to use the Geoapify API and the geoViews Python library and employed my Python skills to create map visualizations.
+
+To succeed on this deliverable of the assignment, opened the **VacationPy.ipynb** starter code and completed the following steps:
+
+1. Created a map that displays a point for every city in the **city_data_df** DataFrame as shown in the following image. The size of the point is the humidity in each city.
+2. Narrow down the **city_data_df** DataFrame to find my ideal weather condition. For example:
+   - A max temperature lower than 27 degrees but higher than 21
+
+   - Wind speed less than 4.5 m/s
+
+   - Zero cloudiness
+
 
