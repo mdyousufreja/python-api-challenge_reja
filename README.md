@@ -37,3 +37,27 @@ To fulfill the first requirement, I used the OpenWeatherMap API to retrieve weat
 - Latitude vs. Cloudiness
 
 - Latitude vs. Wind Speed
+
+### Requirement 2: Compute Linear Regression for Each Relationship ###
+
+To fulfill the second requirement, computed the linear regression for each relationship. Separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). 
+
+Next, created a series of scatter plots. Also, created the following plots:
+
+- Northern Hemisphere: Temperature vs. Latitude
+
+- Southern Hemisphere: Temperature vs. Latitude
+
+- Northern Hemisphere: Humidity vs. Latitude
+
+- Southern Hemisphere: Humidity vs. Latitude
+
+- Northern Hemisphere: Cloudiness vs. Latitude
+
+- Southern Hemisphere: Cloudiness vs. Latitude
+
+- Northern Hemisphere: Wind Speed vs. Latitude
+
+- Southern Hemisphere: Wind Speed vs. Latitude
+
+
