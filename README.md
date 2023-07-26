@@ -26,4 +26,14 @@ For this part, I used the **WeatherPy.ipynb** Jupyter notebook provided in the s
 
 To get started, the code required to generate random geographic coordinates and the nearest city to each latitude and longitude combination is provided.
 
+### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude ###
 
+To fulfill the first requirement, I used the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, created a series of scatter plots to showcase the following relationships:
+
+- Latitude vs. Temperature
+
+- Latitude vs. Humidity
+
+- Latitude vs. Cloudiness
+
+- Latitude vs. Wind Speed
