@@ -60,4 +60,6 @@ Next, created a series of scatter plots. Also, created the following plots:
 
 - Southern Hemisphere: Wind Speed vs. Latitude
 
+After each pair of plots, explained what the linear regression is modeling. Described any relationships that I noticed and any other findings that uncovered.
+
 
